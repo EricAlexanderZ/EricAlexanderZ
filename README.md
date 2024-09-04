@@ -7,7 +7,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EricAlexanderZ/Configuring-Active-Directory-within-Azure-VMs/tree/main)
 - <b>Exploring Azure and Networking Concepts</b>
-  - [Network Security Groups NSGs and Inspecting Network Protocols](https://github.com/EricAlexanderZ/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/EricAlexanderZ/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/EricAlexanderZ/osTicket-Prerequisites-and-Installation.git)
   - [osTicket: Post-Installation Configuration](https://github.com/EricAlexanderZ/osTicket-post-installation-configuration)
