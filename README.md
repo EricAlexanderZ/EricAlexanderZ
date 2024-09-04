@@ -2,6 +2,12 @@
 
 <p>Checkout some of the exciting projects I've been working on!</p>
 
+<h2>🔐🪪 Cloud/Cybersecurity Projects:</h2>
+
+- <b>Security in Azure</b>
+  - Security in Azure
+
+
 <h2>👨🏻‍💻🖥️Cloud/Network Projects:</h2>
 
 - <b>Microsoft Azure</b>
