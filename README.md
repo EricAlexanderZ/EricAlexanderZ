@@ -5,7 +5,7 @@
 <h2>👨🏻‍💻🖥️Cloud/Network Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/EricAlexanderZ/Configuring-Active-Directory-within-Azure-VMs/tree/main)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EricAlexanderZ/Configuring-Active-Directory-within-Azure-VMs/tree/main)
 - <b>Exploring Azure and Networking Concepts</b>
   - [Network Security Groups NSGs and Inspecting Network Protocols](https://github.com/EricAlexanderZ/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
