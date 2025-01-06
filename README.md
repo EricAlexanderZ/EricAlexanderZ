@@ -22,4 +22,4 @@
 
 <h2>🤳Connect with me:</h2>
 
-✉ ericalexanderz@use.startmail.com
+✉ ericalexanderzama@gmail.com
