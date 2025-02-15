@@ -2,10 +2,10 @@
 
 <p>Checkout some of the exciting projects I've been working on!</p>
 
-<h2>🔐🪪 Cloud/Cybersecurity Projects:</h2>
+<h2>🔐🪪 Cybersecurity Projects:</h2>
 
-- <b>Security in Azure</b>
-  - Security in Azure
+- <b>Scripts</b>
+  - [MBDCooker](https://github.com/EricAlexanderZ/MDBCooker)
 
 
 <h2>👨🏻‍💻🖥️Cloud/Network Projects:</h2>
