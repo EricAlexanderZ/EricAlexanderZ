@@ -30,5 +30,5 @@
 </a>
 &nbsp;
 <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" style="vertical-align:middle;"/>
   </a>
