@@ -24,7 +24,7 @@
 </p>
 
 <h2>🤳Connect with me:</h2>
-<p align="left">
+<p align="left" style="border:none; box-shadow:none; text-decoration:none;">
 <a href="https://mail.google.com/mail/?view=cm&to=ericalexanderzama@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
