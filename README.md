@@ -18,7 +18,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/EricAlexanderZ/osTicket-Lifecycle-Example)
 
 <h2>Skillset</h2>
-(https://skillicons.dev/icons?i=kali,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kali,bash,notion,Windows,linux)](https://skillicons.dev)
 
 <h2>🤳Connect with me:</h2>
 
