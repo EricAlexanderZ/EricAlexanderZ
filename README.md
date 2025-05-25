@@ -29,6 +29,4 @@
   <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
 </a>
 
-  <a href="https://www.linkedin.com/in/" target="_blank" style="text-decoration:none">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
-  </a>
+
