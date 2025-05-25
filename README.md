@@ -24,7 +24,9 @@
 <a href="https://mail.google.com/mail/?view=cm&to=ericalexanderzama@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+  </p>
 &nbsp;
+<p align="left">
 <a href="https://www.linkedin.com">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
