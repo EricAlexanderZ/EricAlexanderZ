@@ -21,7 +21,7 @@
 
 <h2>🤳Connect with me:</h2>
 <p>
-    <a href="https://instagram.com/eric.alexander.z">
+    <a href="https://instagram.com/eric.alexander.z" target="_blank">
       <img src="https://skillicons.dev/icons?i=instagram"/>
     </a>
 </p>
