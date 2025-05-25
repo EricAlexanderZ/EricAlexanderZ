@@ -21,7 +21,7 @@
 
 <h2>🤳Connect with me:</h2>
 <p>
-    <a href="https://mail.google.com/mail/?view=cm&to=ericalexanderzama@gmail.com" style="display: inline-block;">
-      <img src="https://skillicons.dev/icons?i=gmail"/>
+    <a href="https://instagram.com/eric.alexander.z">
+      <img src="https://skillicons.dev/icons?i=instagram"/>
     </a>
 </p>
