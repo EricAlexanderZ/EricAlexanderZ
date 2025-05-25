@@ -27,6 +27,6 @@
 </div>
 <div>
     <a href="https://www.linkedin.com">
-      <img src="https://skillicons.dev/icons?i=linkedin"/>
+      <img src="https://skillicons.dev/icons?i=linkedin" style="display: inline-block;"/>
     </a>
 </div>
