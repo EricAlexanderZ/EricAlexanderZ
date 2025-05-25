@@ -25,4 +25,6 @@
 
 <h2>🤳Connect with me:</h2>
 
-<img src="https://skillicons.dev/icons?i=gmail" /> ericalexanderzama@gmail.com
+<a href="mailto:your.email@example.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
+</a> your.email@example.com
