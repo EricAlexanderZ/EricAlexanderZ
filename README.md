@@ -4,9 +4,6 @@
 
 <h2>🔐🪪 Cybersecurity Projects:</h2>
 
-- <b>Scripts</b>
-  - [MBDCooker](https://github.com/EricAlexanderZ/MDBCooker)
-
 
 <h2>👨🏻‍💻🖥️Cloud/Network Projects:</h2>
 
