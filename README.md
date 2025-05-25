@@ -20,13 +20,13 @@
 </p>
 
 <h2>🤳Connect with me:</h2>
-<div align="left">
-    <a href="https://mail.google.com/mail/?view=cm&to=ericalexanderzama@gmail.com" style="display: inline-block;">
+<div align="left"  style="display: inline-block;">
+    <a href="https://mail.google.com/mail/?view=cm&to=ericalexanderzama@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail"/>
     </a>
 </div>
 <div>
-    <a href="https://www.linkedin.com" style="display: inline-block;">
+    <a href="https://www.linkedin.com">
       <img src="https://skillicons.dev/icons?i=linkedin"/>
     </a>
 </div>
