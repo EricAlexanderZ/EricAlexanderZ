@@ -25,6 +25,6 @@
 
 <h2>🤳Connect with me:</h2>
 
-<a href="mailto:your.email@example.com">
+<a href="https://mail.google.com/mail/?view=cm&to=your.email@example.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
-</a> your.email@example.com
+</a>
