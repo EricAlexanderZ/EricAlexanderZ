@@ -25,7 +25,6 @@
   <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
   </p>
-&nbsp;
 <p align="left">
 <a href="https://www.linkedin.com">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
