@@ -17,6 +17,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/EricAlexanderZ/osTicket-post-installation-configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/EricAlexanderZ/osTicket-Lifecycle-Example)
 
+<h2>Skillset</h2>
+(https://skillicons.dev/icons?i=kali,html,css,wasm)](https://skillicons.dev)
+
 <h2>🤳Connect with me:</h2>
 
 ✉ ericalexanderzama@gmail.com
