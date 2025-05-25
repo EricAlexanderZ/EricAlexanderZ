@@ -25,4 +25,4 @@
 
 <h2>🤳Connect with me:</h2>
 
-✉ ericalexanderzama@gmail.com
+<img src="https://skillicons.dev/icons?i=gmail" /> ericalexanderzama@gmail.com
