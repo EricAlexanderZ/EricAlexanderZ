@@ -20,7 +20,7 @@
 <h2>Skillset</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,kali,windows,notion,bash,git,github,powershell,pr,ps" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,windows,notion,bash,git,github,powershell,pr,ps" />
   </a>
 </p>
 
