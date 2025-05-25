@@ -28,3 +28,7 @@
 <a href="https://mail.google.com/mail/?view=cm&to=ericalexanderzama@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
 </a>
+
+<a href="https://www.linkedin.com/in/your-username" target="_blank" title="Connect with me on LinkedIn">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
+</a>
