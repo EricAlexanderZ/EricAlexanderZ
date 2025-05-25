@@ -29,6 +29,6 @@
   <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
 </a>
 
-  <a href="https://www.linkedin.com/in/" target="_blank" style="text-decoration:none">
+  <a href="https://www.linkedin.com/in/" target="_blank" style="text-decoration:none; display:inline-block; line-height:0; border: none;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" style="border:none;" />
   </a>
