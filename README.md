@@ -25,11 +25,9 @@
 
 <h2>🤳Connect with me:</h2>
 
-<p align="left">
-  <a href="mailto:ericalexanderzama@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail," alt="gmail" />
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&to=your.email@example.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail," alt="gmail" />
+</a>
   <a href="https://www.linkedin.com/in/your-username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin," alt="linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
   </a>
-</p>
