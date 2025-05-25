@@ -26,10 +26,10 @@
 <h2>🤳Connect with me:</h2>
 
 <p align="left">
-  <a href="mailto:your.email@example.com" target="_blank" title="Email Me">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
+  <a href="mailto:ericalexanderzama@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail," alt="gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/your-username" target="_blank" title="Connect on LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
+  <a href="https://www.linkedin.com/in/your-username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin," alt="linkedin" />
   </a>
 </p>
