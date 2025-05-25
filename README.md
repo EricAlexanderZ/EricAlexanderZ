@@ -29,6 +29,6 @@
   <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
 </a>
 
-<a href="https://www.linkedin.com/in/your-username" target="_blank" title="Connect with me on LinkedIn">
+<a href="https://www.linkedin.com/in/your-username" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
 </a>
