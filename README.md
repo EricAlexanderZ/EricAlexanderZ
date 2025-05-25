@@ -12,7 +12,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/EricAlexanderZ/osTicket-post-installation-configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/EricAlexanderZ/osTicket-Lifecycle-Example)
 
-<h2>Skillset</h2>
+<h2>👨🏻‍💻Skillset</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,kali,windows,notion,bash,python,git,github,powershell,pr,ps" />
