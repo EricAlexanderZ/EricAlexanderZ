@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sixtyfour&size=21&duration=4000&pause=1000&color=D70000&width=435&lines=Hey%2C+it's+Eric!+;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-<h2>👨🏻‍💻🖥️Cloud/Network Projects:</h2>
+<h2>👨🏻‍💻🖥️Cloud/IT Projects:</h2>
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EricAlexanderZ/Configuring-Active-Directory-within-Azure-VMs/tree/main)
