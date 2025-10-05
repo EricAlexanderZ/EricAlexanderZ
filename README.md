@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sixtyfour&size=21&duration=4000&pause=1000&color=D70000&width=435&lines=Hey%2C+it's+Eric!+;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single+Ink&size=30&duration=3000&color=4AF724&width=435&lines=Hey%2C+it's+Eric!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <h2>👨🏻‍💻🖥️Cloud/IT Projects:</h2>
 
