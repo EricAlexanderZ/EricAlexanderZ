@@ -11,7 +11,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/EricAlexanderZ/osTicket-Prerequisites-and-Installation.git)
   - [osTicket: Post-Installation Configuration](https://github.com/EricAlexanderZ/osTicket-post-installation-configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/EricAlexanderZ/osTicket-Lifecycle-Example)
-
+- <b>Virtual Private Network</b>
+  - [VPN Setup in Virtual Machine](https://github.com/EricAlexanderZ/VPN-Setup-in-Virtual-Machine/tree/main)
 <h2>👨🏻‍💻Skillset</h2>
 <p align="center">
   <a href="https://skillicons.dev">
