@@ -3,6 +3,7 @@
 <h2>👨🏻‍💻🖥️Cloud/IT Projects:</h2>
 
 - <b>Microsoft Azure</b>
+  - [School District Network Simulation Using Azure & Windows Server](https://github.com/EricAlexanderZ/District-Network-Simulation-Azure-Windows-Server-/tree/main)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EricAlexanderZ/Configuring-Active-Directory-within-Azure-VMs/tree/main)
   - [Network File Shares and Permissions](https://github.com/EricAlexanderZ/Network-File-Shares-and-Permissions/tree/main)
 - <b>Exploring Azure and Networking Concepts</b>
